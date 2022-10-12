@@ -1,5 +1,5 @@
 ### Description
-This plugin get info about an player. It can make staff work a lot easier. :)
+This plugin get info about an player. It can make staff work a lot easier. :)  
 List of infos below.
   
 ## Commands
