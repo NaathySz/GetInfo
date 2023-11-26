@@ -12,7 +12,7 @@ public Plugin myinfo =
 {
 	name = "Get Info",
 	author = "Nathy",
-	description = "Get full info about an player",
+	description = "Get full info about a player",
 	version = PLUGIN_VERSION,
 	url = "https://steamcommunity.com/id/nathyzinhaa"
 };
